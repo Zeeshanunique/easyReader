@@ -1,4 +1,4 @@
-LLM for PDF Document Merging with FAISS Embeddings
+PDF Document Merging and chatting with FAISS Embeddings
 
 Description:
 
